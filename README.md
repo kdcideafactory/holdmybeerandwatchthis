@@ -1,2 +1,2 @@
 # holdmybeerandwatchthis
-github testing repo for all things kdcif - HELLO WORLD!
+testing repo for kdcif - HELLO WORLD!
